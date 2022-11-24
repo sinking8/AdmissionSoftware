@@ -37,7 +37,7 @@ The design and implementation of a comprehensive Admission System replaces the c
 
 ## Screenshots
 <img src="https://github.com/sinking8/AdmissionSoftware/screenshots/1.PNG"/>
-<img src="https://github.com/sinking8/AdmissionSoftware/screenshots/2.PNG"/>
+<img src="https://github.com/sinking8/AdmissionSoftware/screenshots/2.png"/>
 <h2>Note</h2>
 Since its a licensed software kindly reach out for further information
 
